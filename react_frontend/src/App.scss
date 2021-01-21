@@ -1,0 +1,23 @@
+html {
+  font-size: 14px;
+}
+
+body {
+  font-family: "Titillium Web", sans-serif, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h2 {
+  font-family: "Titillium Web", sans-serif;
+}
+
+.Toastify__toast--error {
+  background-color: #e57373;
+}
+
+.Toastify__toast--success {
+  background-color: #8bc34a;
+}
